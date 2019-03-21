@@ -1,0 +1,9 @@
+## Utility Orders
+
+
+
+```bash
+git --help #get git helps
+git init #creat management for current file			
+```
+
